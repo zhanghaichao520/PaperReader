@@ -17,4 +17,4 @@
 
 ## 损失函数
 ![alt text](image-5.png)
-![alt text](image-6.png)
+![alt text](image-6.png)git
